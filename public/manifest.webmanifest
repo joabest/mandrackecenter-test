@@ -1,0 +1,17 @@
+{
+  "name": "MANDRACKE CENTER",
+  "short_name": "MANDRACKE",
+  "description": "Painel privado MANDRACKE CENTER",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0b18",
+  "theme_color": "#9656f4",
+  "icons": [
+    {
+      "src": "/mandracke-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
